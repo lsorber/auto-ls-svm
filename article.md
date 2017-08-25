@@ -53,3 +53,5 @@ $$
 $$
 
 Can we go from our system to a more simple system simlar to LS-SVM? Why is the last equation so different?
+
+Marc VB: Als je de eerste blokvergelijking van het eerste stelsel langs links vermenigvuldigt met K^T^{-1}, krijg je de eerste blokvergelijking van het tweede stelsel. Als je daarna alle vergelijkingen van de eerste blokrij optelt en daarna de laatste (blok) vergelijking ervan aftrekt, krijg je de tweede (blok) vergelijking van het tweede stelsel (als mu verschilt van 0).
